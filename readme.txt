@@ -1,4 +1,5 @@
 Git is a distributed version control system.
+here i add a new line in dev.
 Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes of files.
@@ -10,3 +11,4 @@ Creating a new branch is quick AND simple.
 From now on, you belong to me.
 When you are here, I will go there.
 one thousand year by dev add bytemp
+one thousand year b
