@@ -7,4 +7,6 @@ If you are here, I am there
 Hello, I am world!
 No pain No gain!
 Creating a new branch is quick AND simple.
+<<<<<<< HEAD
 I hear some noise about you.But don not feel suprised.
+When you are here, I will go there.
