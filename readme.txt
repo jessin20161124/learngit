@@ -6,3 +6,4 @@ Add for another rows.
 If you are here, I am there
 Hello, I am world!
 No pain No gain!
+Creating a new branch is quick AND is simple.
